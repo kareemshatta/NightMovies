@@ -5,6 +5,8 @@ NightMovies app is designed to explore movies with it's information and trailers
 This app support mobiles that support IOS only.
 
 screenshots:
+
+
 ![](night_movie_screens/1.png)
 
 ![](night_movie_screens/2.png)
